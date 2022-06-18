@@ -1,0 +1,8 @@
+.container{
+    flex-grow: 1;
+}
+
+.date {
+   font-size: small; 
+   opacity: 0.75;
+}
