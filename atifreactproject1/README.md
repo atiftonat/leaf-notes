@@ -1,6 +1,6 @@
 <h1>PROJECT SPECIFICATIONS:<h1/>
 
-<h5>Task 1:</h5><br/>
+Task 1:<br/>
 'Create a Header that will be displayed across all pages'<br/>
 The header component needs to have a Title of your application & have a Clear All button to clear
 the list from storage
